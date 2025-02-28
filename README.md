@@ -30,6 +30,7 @@ Software Development Life Cycle
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall Methodology
 
 -Linear and sequential approach: Requirements gathering, design, implementation, testing, and deployment are done before moving on. 
